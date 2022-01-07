@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Nathan👋
+
+## Front End Webdeveloper
+
+## How to reach me: ... Check out my 	[Resume](https://docs.google.com/document/d/e/2PACX-1vQmVTxKLDcFzd6scoC3pirJJ-uAqjj1hUf0CSKx89dg-QeNpa9fJ0erSuFEky_CN4EAwkOzyOJ5esZQ/pub)
 
 <!--
 **NathanWigen/NathanWigen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
