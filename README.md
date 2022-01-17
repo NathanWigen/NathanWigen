@@ -2,6 +2,8 @@
 
 <h3 align="left">Front End Web developer Located in Washington State</h3>
 
+<p></p>
+
 You can download my technical [Resumé](https://docdro.id/9WqAvUE) , see my [Portfoilo](https://nathanwigen.netlify.app/), or [Contact Me Directly](mailto:nathan.s.wigen@hotmail.com)
 
 <!--
