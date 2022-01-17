@@ -2,7 +2,7 @@
 
 <h2 align="left">Front End Web developer Located in Washington State</h2>
 
-Check out my [Resume](https://docdro.id/9WqAvUE), [Portfoilo](https://nathanwigen.netlify.app/), or [Contact Me Directly](mailto:nathan.s.wigen@hotmail.com)
+You can download my technical [Resumé] at (https://docdro.id/9WqAvUE), see my [Portfoilo](https://nathanwigen.netlify.app/), or [Contact Me Directly](mailto:nathan.s.wigen@hotmail.com)
 
 <!--
 **NathanWigen/NathanWigen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
